@@ -1,5 +1,6 @@
 # Black Friday
  Analytics Vidhya Hackathon Practice Problem
+ Refer https://datahack.analyticsvidhya.com/contest/black-friday
  
  Regression Problem.
  Target Variable - Purchase Amount of a given User ID
