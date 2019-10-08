@@ -26,5 +26,4 @@
  **Results:**
  - Best Model - Multiple Linear Regression
  - Best Model RMSE on Validation Dataset - 2631.29
- - Best Model RMSE on test Dataset - 2677.13
- - Hackathon Rank - 640 
+ - Best Model RMSE on test Dataset - 2677.13 
